@@ -1,5 +1,6 @@
 ![Jihad Banner](https://vercel.app)
 
+
 # Hello, I'm Jihad Al-Hafiri! 🚀
 
 > "Programming is the art of problem-solving and algorithmic thinking."
