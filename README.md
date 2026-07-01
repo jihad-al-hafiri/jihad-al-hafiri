@@ -1,4 +1,4 @@
-![Jihad Banner](https://vercel.app)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jihad%20Al-Hafiri&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Building%20unbreakable%20programming%20foundation&descSize=20&descAlignY=55)
 
 
 # Hello, I'm Jihad Al-Hafiri! 🚀
